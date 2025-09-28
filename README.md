@@ -1,5 +1,6 @@
 ## 🎶 Spotify Customer Churn Analysis
-This project focuses on analyzing Spotify user data to predict churn and provide actionable insights to improve user retention.
+This project focuses on analyzing Spotify user data to predict churn and 
+provide actionable insights to improve user retention.
 <hr>
 <img src="Spotify-Customer-Churn-Analysis\outputs\dashboard.png" alt="Data Analyst: Solving Complex Problems" style="width:100%; height:100%; object-fit: cover; border: 2px solid #cccccc; margin-bottom:20px;">
 <hr>
@@ -38,4 +39,5 @@ Desktop users dominate slightly (34.7%), while Web (32.8%) and Mobile (32.5%) ar
 
 **Report Type:** User Engagement & Churn Prediction
 <hr>
+
 This analysis helps Spotify identify high-risk users, improve retention strategies, and make data-driven decisions to reduce cancellations.

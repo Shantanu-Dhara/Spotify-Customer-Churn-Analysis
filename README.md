@@ -3,9 +3,10 @@ This project focuses on analyzing Spotify user data to predict churn and provide
 <hr>
 <img src="Spotify-Customer-Churn-Analysis\outputs\dashboard.png" alt="Data Analyst: Solving Complex Problems" style="width:100%; height:100%; object-fit: cover; border: 2px solid #cccccc; margin-bottom:20px;">
 <hr>
+
 ## 🔍 Key Insights
 
-**📊 Churn Rate:** 
+**📊 Churn Rate:** <br>
 ∼25.9% of users churned, while 74.1% remained active. This indicates 1 in 4 users cancel their subscription, showing a moderate churn risk.
 
 **💳 Subscription Type Impact:** 
@@ -19,21 +20,21 @@ Almost evenly distributed among Male (33.6%), Female (33.2%), and Other (33.1%),
 
 **📱 Device Preference:**
 Desktop users dominate slightly (34.7%), while Web (32.8%) and Mobile (32.5%) are close, indicating multi-device engagement is common.
+<hr>
+## Final Conclusion
+**To reduce churn and increase engagement, Spotify should focus on the following:**
 
-**Final Conclusion**
-To reduce churn and increase engagement, Spotify should focus on the following:
+📊 The churn rate is significant (1 in 4 users), and subscription type has more influence than demographics or device usage.
 
-The churn rate is significant (1 in 4 users), and subscription type has more influence than demographics or device usage.
+📊 Since listening time doesn’t differ much between active and churned users, content quality, engagement features, or pricing strategy might be bigger churn drivers than pure usage.
 
-Since listening time doesn’t differ much between active and churned users, content quality, engagement features, or pricing strategy might be bigger churn drivers than pure usage.
+📊 Retention strategies should focus on subscription-specific engagement, particularly Free and Family plans, to reduce churn while keeping Premium users loyal.
 
-Retention strategies should focus on subscription-specific engagement, particularly Free and Family plans, to reduce churn while keeping Premium users loyal.
+## Project Information
+**Project Name:** Spotify Customer Churn Analysis
 
-Project Information
-Project Name: Spotify Customer Churn Analysis
+**Tools Used:** Python (Pandas, NumPy, Matplotlib)
 
-Tools Used: Python (Pandas, NumPy, Matplotlib)
-
-Report Type: User Engagement & Churn Prediction
-
+**Report Type:** User Engagement & Churn Prediction
+<hr>
 This analysis helps Spotify identify high-risk users, improve retention strategies, and make data-driven decisions to reduce cancellations.

@@ -1,3 +1,3 @@
 # Spotify-Customer-Churn-Analysis
 Spotify-Customer-Churn-Analysis: Annual data insights on user churn, subscription types, demographics, and device usage. Includes visualizations (donut, bar, column and pie charts) and actionable recomendations to reduce churn and boost engagement.
-<img src="https://image.pollinations.ai/prompt/advanced%20data%20analyst%20working%20with%20complex%20data%20visualizations%20and%20problem%20solving,%20futuristic%20interface,%20sleek%20modern%20design,%20abstract%20data%20patterns,%20no%20watermark,%20high%20resolution" alt="Data Analyst: Solving Complex Problems" style="width:100%; height:220px; object-fit: cover; border: 2px solid #cccccc; margin-bottom:20px;">
+<img src="Spotify-Customer-Churn-Analysis\outputs\dashboard.png" alt="Data Analyst: Solving Complex Problems" style="width:100%; height:220px; object-fit: cover; border: 2px solid #cccccc; margin-bottom:20px;">

@@ -4,25 +4,26 @@ This project focuses on analyzing Spotify user data to predict churn and provide
 <img src="Spotify-Customer-Churn-Analysis\outputs\dashboard.png" alt="Data Analyst: Solving Complex Problems" style="width:100%; height:100%; object-fit: cover; border: 2px solid #cccccc; margin-bottom:20px;">
 <hr>
 
-## 🔍 Key Insights
+## 🔍 Key Insights <br>
 
 **📊 Churn Rate:** <br>
 ∼25.9% of users churned, while 74.1% remained active. This indicates 1 in 4 users cancel their subscription, showing a moderate churn risk.
 
-**💳 Subscription Type Impact:** 
+**💳 Subscription Type Impact:** <br>
 Family users show the highest churn risk (∼27.5%), while Free (∼24.9%), Premium (∼25.1%), and Student (∼26.2%) are almost similar, meaning subscription type impacts churn but not drastically.
 
-**🧑‍🦱 Age Group Distribution:**
+**🧑‍🦱 Age Group Distribution:** <br>
 Adults (26–50 yrs) are the largest user segment (56.2%), followed by Young (22.9%) and Senior Citizens (20.8%). This shows Spotify’s core audience is adults.
 
-**🚻 Gender Distribution:**
+**🚻 Gender Distribution:** <br>
 Almost evenly distributed among Male (33.6%), Female (33.2%), and Other (33.1%), suggesting churn is not strongly influenced by gender.
 
-**📱 Device Preference:**
+**📱 Device Preference:** <br>
 Desktop users dominate slightly (34.7%), while Web (32.8%) and Mobile (32.5%) are close, indicating multi-device engagement is common.
 <hr>
-## Final Conclusion
-**To reduce churn and increase engagement, Spotify should focus on the following:**
+
+## Final Conclusion <br>
+**To reduce churn and increase engagement, Spotify should focus on the following:** <br>
 
 📊 The churn rate is significant (1 in 4 users), and subscription type has more influence than demographics or device usage.
 
